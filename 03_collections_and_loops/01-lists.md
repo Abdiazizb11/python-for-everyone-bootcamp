@@ -73,4 +73,4 @@ count: 4
 3. Create two lists and **concatenate** them with `+` into a new list. Print it.
 4. For `words = ["one", "two", "three", "four"]`, print a slice with **only** `"two"` and `"three"` (use a `start:stop` slice).
 
-Continue with `tuples.md`.
+Continue with `02-tuples.md`.

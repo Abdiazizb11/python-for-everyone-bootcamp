@@ -122,4 +122,4 @@ Bo: 88
 4. Use **`enumerate`** on a list of three names; print the index and name on each line.
 5. Build a small **dict** (e.g. two keys). Loop with **`.items()`** and print each key and value. Optional: print **sorted** keys with `for k in sorted(d):`.
 
-Continue with `while-loops.md`.
+Continue with `06-while-loops.md`.

@@ -49,4 +49,4 @@ odd: 5
 2. Loop over **`range(10)`**; if `n` is **3**, use **`continue`** so you skip printing for that `n` only.
 3. Write an **`if False:`** block whose only statement is **`pass`**, to show the file still runs.
 
-Continue with `common-methods.md`.
+Continue with `08-common-methods.md`.

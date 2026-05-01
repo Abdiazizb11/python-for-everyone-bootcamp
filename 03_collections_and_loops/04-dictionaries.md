@@ -17,7 +17,7 @@ A **dictionary** (`dict`) maps **keys** to **values**. Keys must be **unique** a
 - Think “real dictionary”: look up a **word** (key), get a **definition** (value).
 - Use `.get()` when the key might not exist (user input, optional fields).
 - Keys are often strings; values might be lists, numbers, or nested dicts.
-- **Looping** over a dict with `for` comes in the next lesson (`for-loops.md`); here we only **look up** and **print** what we need without a loop.
+- **Looping** over a dict with `for` comes in the next lesson (`05-for-loops.md`); here we only **look up** and **print** what we need without a loop.
 
 ## Example
 
@@ -52,4 +52,4 @@ as a whole: {'name': 'Maya', 'grade': 92, 'email': 'maya@example.com'}
 2. Use `.get()` to look up a country not in your dict with default `"unknown"`.
 3. Update one capital and print the dict before and after.
 
-Continue with `for-loops.md`.
+Continue with `05-for-loops.md`.

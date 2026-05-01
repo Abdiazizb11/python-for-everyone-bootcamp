@@ -50,4 +50,4 @@ intersection: {3}
 2. Create two sets of numbers and print their **intersection** and **difference**.
 3. Try `{{1, 2}}` in your head—why is a set of sets not written that way? (Hint: sets are not hashable.) Optional: read about `frozenset` later.
 
-Continue with `dictionaries.md`.
+Continue with `04-dictionaries.md`.

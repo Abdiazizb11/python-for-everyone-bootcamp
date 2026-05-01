@@ -43,4 +43,4 @@ x = 10 y = 20
 2. Try to assign `rgb[0] = 0` and read the error message—then explain in one sentence why it failed.
 3. Write a function-free line: `a, b, c = (1, 2, 3)` and print `a + b + c`.
 
-Continue with `sets.md`.
+Continue with `03-sets.md`.

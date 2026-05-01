@@ -54,4 +54,4 @@ n is 3
 1. Set `i = 0`. Use **`while i < 4`**: print `i`, then add **1** to `i` each time.
 2. **Stretch:** set `total = 0` and add numbers from user input in a `while` loop until they type **`0`**, then print `total`. (If that is much harder, skip and ask a peer.)
 
-Continue with `break-continue-pass.md`.
+Continue with `07-break-continue-pass.md`.

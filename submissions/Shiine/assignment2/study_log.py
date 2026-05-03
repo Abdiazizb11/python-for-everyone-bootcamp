@@ -52,9 +52,10 @@ while True:
       show_note()
       
   elif select=="3":
-   
+    print("Thanks for you using note program have a nice day.")
     break
   else:
+
     print("invalid")
 
    
